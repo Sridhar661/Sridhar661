@@ -1,7 +1,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09001F,100:001B2E&height=220&section=header&text=SRIDHARAN&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20AGENTIC%20AI&descAlignY=60&descSize=16" width="100%" alt="Black neon header"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=SRIDHARAN;SOFTWARE+DEVELOPER;EXPLORING+AGENTIC+AI" alt="Sridharan - Developer"/>
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-09001F?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="Agentic AI"/>
+</p>
+
+</div>
+   type=waving&color=0:000000,50:09001F,100:001B2E&height=220&section=header&text=SRIDHARAN&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20AGENTIC%20AI&descAlignY=60&descSize=16" width="100%" alt="Black neon header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Python+%7C+FastAPI+%7C+React;Exploring+LLMs+%26+AI+Agents;Code.+Learn.+Build.+Repeat." alt="Animated developer introduction"/>
 
