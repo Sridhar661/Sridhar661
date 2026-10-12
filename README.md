@@ -1,141 +1,113 @@
 
-<!-- DARK NEON GITHUB PROFILE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312E81,100:06B6D4&height=220&section=header&text=SRIDHARAN&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENGINEER%20IN%20PROGRESS&descAlignY=58&descSize=14" width="100%" alt="Dark neon header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09001F,100:001B2E&height=220&section=header&text=SRIDHARAN&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20AGENTIC%20AI&descAlignY=60&descSize=16" width="100%" alt="Black neon header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Python+%7C+FastAPI+%7C+React;Exploring+LLMs+%26+Agentic+AI;Turning+ideas+into+working+software" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Python+%7C+FastAPI+%7C+React;Exploring+LLMs+%26+AI+Agents;Code.+Learn.+Build.+Repeat." alt="Animated developer introduction"/>
 
 <br/>
 
-<a href="https://github.com/Sridhar661">
-  <img src="https://img.shields.io/badge/GitHub-Sridhar661-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-<img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-312E81?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/BUILD-LEARN-06B6D4?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-09001F?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/BACKEND-PYTHON-09001F?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/FRONTEND-REACT-09001F?style=for-the-badge&logo=react&logoColor=00F5FF"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-09001F?style=for-the-badge&labelColor=000000" />
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Sridharan"
-        self.role = "Software Developer"
-        self.interests = [
-            "Agentic AI",
-            "Large Language Models",
-            "Backend Engineering",
-            "Supply Chain Technology",
-            "Point of Sale Systems",
-        ]
-        self.current_focus = "Building practical AI applications"
+    name = "Sridharan"
+    role = "Software Developer"
+    interests = [
+        "Artificial Intelligence",
+        "Agentic AI and LLMs",
+        "Backend Engineering",
+        "POS and Supply Chain Systems",
+    ]
 
-    def say_hello(self):
-        return "Always learning. Always building."
-
-me = Developer()
-print(me.say_hello())
+    def build(self):
+        return "Ideas into working software"
 ```
 
-## `> tech_stack`
+## <img src="https://img.shields.io/badge/02-TECH_STACK-09001F?style=for-the-badge&labelColor=000000" />
 
 <div align="center">
 
-### Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css&theme=dark" alt="Programming technologies"/>
-
-### Frontend, Database & Tools
-
-<img src="https://skillicons.dev/icons?i=react,vite,mysql,postgres,redis,git,github,vscode&theme=dark" alt="Development tools"/>
-
-### AI & Intelligent Systems
-
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=probot&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=A78BFA"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,mysql,postgres,redis,git,github,vscode&theme=dark&perline=6" alt="Technology stack"/>
 
 </div>
 
-## `> featured_projects`
+## <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-09001F?style=for-the-badge&labelColor=000000" />
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Point of Sale
 
-Billing, inventory, accounting, and retail workflows.
+Retail billing, inventory, and accounting workflows.
 
-**Focus:** FastAPI · React · MySQL
+`FASTAPI` `REACT` `MYSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Agentic AI
 
-Intelligent tools and workflows for business applications.
+Intelligent workflows, tool calling, and LLM-powered applications.
 
-**Focus:** Python · LLMs · Tool Calling
+`PYTHON` `LLM` `AI AGENTS`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 Supply Chain Management
+### 📦 Supply Chain
 
-Inventory planning, demand forecasting, and analytics.
+Demand planning, inventory monitoring, and analytics.
 
-**Focus:** Data · Forecasting · Automation
+`PYTHON` `FORECASTING`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Continuous Learning
+### ⚡ Developer Journey
 
-Building practical projects and strengthening engineering skills.
+Learning, experimenting, and building practical software.
 
-**Focus:** AI · Backend · System Design
+`LEARN` `BUILD` `IMPROVE`
 
 </td>
 </tr>
 </table>
 
-## `> github_analytics`
+## <img src="https://img.shields.io/badge/04-GITHUB_ANALYTICS-09001F?style=for-the-badge&labelColor=000000" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sridhar661&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00F5FF" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sridhar661&show_icons=true&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=BC8CFF&text_color=E6EDF3&ring_color=00F5FF" width="48%" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar661&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar661&layout=compact&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=E6EDF3" width="48%" alt="Top languages"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sridhar661&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridhar661&bg_color=000000&color=00F5FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution activity"/>
 
 </div>
 
-## `> current_mission`
+## <img src="https://img.shields.io/badge/05-CURRENT_MISSION-09001F?style=for-the-badge&labelColor=000000" />
 
-- ⚡ Build reliable software for real business problems.
-- 🧠 Explore LLMs, AI agents, and intelligent automation.
-- 🔧 Improve backend architecture and application performance.
-- 🚀 Turn ideas into useful, production-ready projects.
-
-## `> connect`
+- Build reliable, useful software.
+- Explore LLMs and AI agents.
+- Improve backend architecture and performance.
+- Create intelligent business applications.
 
 <div align="center">
 
-<a href="https://github.com/Sridhar661">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B2E,50:09001F,100:000000&height=120&section=footer" width="100%" alt="Dark neon footer"/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050816&height=100&section=footer" width="100%" alt="Dark neon footer"/>
+**`BUILDING THE FUTURE, ONE PROJECT AT A TIME.`**
 
 </div>
